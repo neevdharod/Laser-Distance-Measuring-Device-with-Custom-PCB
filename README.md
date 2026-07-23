@@ -1,5 +1,6 @@
 # Lazer
 I am using an custom PCB and TF-Luna LiDAR distance sensor to create a mini-remote like device where I can point at something and it will tell me the distance from me (the remote) to the thing the laser hits/distance sensor hits. I will also have a button to change units between inches, feet, cm, meters, etc.
+EasyEDA link: https://oshwlab.com/neev.dharod/project_gzbygltd
 
 # CAD
 Cad includes a case and the assembly with all the components
